@@ -1,6 +1,6 @@
 # Guillermo De Pablos Blanco
 
-Hi there
+Hi there :wave:
 
 I'm Guillermo, a passionate freelancer bringing you programming and design from the future. I am experienced in developing web, desktop, service applications.
 

@@ -1,4 +1,4 @@
-# Guillermo De Pablos Blanco
+# Guillermo
 
 Hi there :wave:
 

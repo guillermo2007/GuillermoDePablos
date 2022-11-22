@@ -6,6 +6,6 @@ I'm Guillermo, a passionate freelancer bringing you programming and design from 
 
 Well-organised person, problem solver, independent employee with high attention to detail. Fan of technology, TV series, and cycling. A family person and father of a sweet girl.
 
-- 💻 I write code with .NET, Angular, TypeScript
+- 💻 I write code with .NET, Angular, Blazor, TypeScript
 - 📫 How to reach me: guillermodepablos@gmail.com
 
